@@ -22,6 +22,15 @@ class Program
             double resultado = Sumar(num1, num2);
             Console.WriteLine("El resultado de la suma es: " + resultado);
         }
+        if (opcion == 2)
+        {
+            Console.Write("Ingrese el primer número: ");
+            double num1 = double.Parse(Console.ReadLine());
+            Console.Write("Ingrese el segundo número: ");
+            double num2 = double.Parse(Console.ReadLine());
+            double resultado = Restar(num1, num2);
+            Console.WriteLine("El resultado de la resta es: " + resultado);
+        }
         if (opcion == 4)
         {
             Console.Write("Ingrese el primer número: ");
@@ -37,6 +46,10 @@ class Program
     static double Sumar(double a, double b)
     {
         return a + b;
+    }
+    static double Restar(double a, double b)
+    {
+        return a - b;
     }
     static double Dividir(double a, double b)
     {
