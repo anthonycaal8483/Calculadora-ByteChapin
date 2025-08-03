@@ -12,8 +12,21 @@ class Program
         Console.Write("Seleccione una opción: ");
 
         int opcion = int.Parse(Console.ReadLine());
-        // TODO: Implementar la lógica de menú
+
+        if (opcion == 2)
+        {
+            Console.Write("Ingrese el primer número: ");
+            int num1 = int.Parse(Console.ReadLine());
+            Console.Write("Ingrese el segundo número: ");
+            int num2 = int.Parse(Console.ReadLine());
+            int resultado = Resta(num1, num2);
+            Console.WriteLine($"El resultado de la resta es: {resultado}");
+        }
     }
 
-    // TODO: Implementar funciones de suma, resta, multiplicación, división
+    // Función de resta de dos dígitos
+    static int Resta(int a, int b)
+    {
+        return a - b;
+    }
 }
