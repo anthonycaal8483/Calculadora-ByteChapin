@@ -19,7 +19,7 @@ class Program
         double num2 = double.Parse(Console.ReadLine());
         
         double resultado = 0;
-        bool operacionValida = true;
+        bool operacionValida = true; 
         
         switch (opcion)
         {
