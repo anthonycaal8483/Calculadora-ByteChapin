@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\Programación 2\Calculador-Bychapin\lab001\bin\Debug\net9.0\lab001.exe
+C:\Users\DELL\Documents\Programación 2\Calculador-Bychapin\lab001\bin\Debug\net9.0\lab001.deps.json
+C:\Users\DELL\Documents\Programación 2\Calculador-Bychapin\lab001\bin\Debug\net9.0\lab001.runtimeconfig.json
+C:\Users\DELL\Documents\Programación 2\Calculador-Bychapin\lab001\bin\Debug\net9.0\lab001.dll
+C:\Users\DELL\Documents\Programación 2\Calculador-Bychapin\lab001\bin\Debug\net9.0\lab001.pdb
+C:\Users\DELL\Documents\Programación 2\Calculador-Bychapin\lab001\obj\Debug\net9.0\lab001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Programación 2\Calculador-Bychapin\lab001\obj\Debug\net9.0\lab001.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Programación 2\Calculador-Bychapin\lab001\obj\Debug\net9.0\lab001.AssemblyInfo.cs
+C:\Users\DELL\Documents\Programación 2\Calculador-Bychapin\lab001\obj\Debug\net9.0\lab001.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Programación 2\Calculador-Bychapin\lab001\obj\Debug\net9.0\lab001.sourcelink.json
+C:\Users\DELL\Documents\Programación 2\Calculador-Bychapin\lab001\obj\Debug\net9.0\lab001.dll
+C:\Users\DELL\Documents\Programación 2\Calculador-Bychapin\lab001\obj\Debug\net9.0\refint\lab001.dll
+C:\Users\DELL\Documents\Programación 2\Calculador-Bychapin\lab001\obj\Debug\net9.0\lab001.pdb
+C:\Users\DELL\Documents\Programación 2\Calculador-Bychapin\lab001\obj\Debug\net9.0\lab001.genruntimeconfig.cache
+C:\Users\DELL\Documents\Programación 2\Calculador-Bychapin\lab001\obj\Debug\net9.0\ref\lab001.dll
